@@ -16,4 +16,4 @@ This Tool was created for people who works onboard to count their days worked, t
 
 ## Screen-Shot do projeto / Project overview
 
-![Contador de dias](https://github.com/gabrielmxavier/Contador_de_dias-Counter_Days/blob/master/Print-Screen.jpg)
+![Contador de dias]([https://github.com/gabrielmxavier/Contador_de_dias-Counter_Days/blob/master/Print-Screen.jpg](https://lh5.googleusercontent.com/TFko33DiZWro13ex0THze6CiVSRH_5L7umjUQOkiXXZsHpBYP2uLQKHjW1NMjqC63ZKUbyjmckK8wp-rRfSk8Mlk9hz7WHtsCWdMg05bOS9Z6pLzi5an7HosU_XKNUn8LQ=w1280)https://lh5.googleusercontent.com/TFko33DiZWro13ex0THze6CiVSRH_5L7umjUQOkiXXZsHpBYP2uLQKHjW1NMjqC63ZKUbyjmckK8wp-rRfSk8Mlk9hz7WHtsCWdMg05bOS9Z6pLzi5an7HosU_XKNUn8LQ=w1280)
