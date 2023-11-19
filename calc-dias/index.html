@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/style/style.css">
+    <title>Days Calculator</title>
+</head>
+<body class="d-flex justify-content-center align-items-center mt-5">
+    <div class="container-fluid"> <!-- Utilizando container-fluid para preencher toda a largura -->
+      <div class="row justify-content-center"> <!-- Criando uma linha (row) centralizada -->
+        <div class="col-md-8 col-lg-6 col-xl-4 col-12"> <!-- Colocando o formulário com tamanhos diferentes em telas diferentes -->
+          <h2 class="mt-4 mb-3">Days Calculator</h2>
+          <form>
+            <div class="form-group">
+              <label for="dataInicial">Inicial Date:</label>
+              <input type="date" class="form-control" id="dataInicial">
+            </div>
+            
+            <div class="form-group">
+              <label for="dataFinal">Final Date:</label>
+              <input type="date" class="form-control" id="dataFinal">
+            </div>
+  
+            <button type="button" class="btn btn-primary" onclick="calcularDiferenca()">Calcular</button><br><br>
+  
+            <p id="resultado"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+
+  <script src="assets/script/script.js">
+  </script>
+</body>
+</html>
