@@ -16,4 +16,4 @@ This Tool was created for people who works onboard to count their days worked, t
 
 ## Screen-Shot do projeto / Project overview
 
-![Contador de dias](https://655a75b6040c867a66340be8--mellifluous-cocada-62ab29.netlify.app/img.jpg)
+![Contador de dias](https://lh5.googleusercontent.com/3ySb2Ea0F6x_H33h_lT_HOaCotRIoDrKi87D0nMDl38DU06JD6byPQBAEfoe3w0XjeAFapziDxKoAiZCyfQrVHBJK35ed-qjZdVI_q_essM2eXNqtcMEAV3EDvn0pWVlvg=w1280)
