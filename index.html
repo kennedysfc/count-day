@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/style/style.css">
+    <title>Days Calculator</title>
+</head>
+<body class="mt-0">
+    <img src="assets/img/img-cap.jpg" class="top-image" alt="Horizontal Image">
+    <div class="container-fluid">
+        <div class="row justify-content-center mt-3">
+            <div class="col-md-8 col-lg-6 col-xl-4 col-12">
+                <h2 class="mt-4 mb-3">Days Calculator</h2>
+                <form>
+                    <div class="form-group">
+                        <label for="dataInicial">Initial Date:</label>
+                        <input type="date" class="form-control" id="dataInicial">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="dataFinal">Final Date:</label>
+                        <input type="date" class="form-control" id="dataFinal">
+                    </div>
+          
+                    <button type="button" class="btn btn-primary" onclick="calcularDiferenca()">Calculate</button><br><br>
+          
+                    <p id="resultado"></p>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="assets/script/script.js">
+</script>
+
+</html>
